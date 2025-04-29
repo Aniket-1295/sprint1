@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
 
-Sprint 1 complited
+Sprint 2 complited
 
 
